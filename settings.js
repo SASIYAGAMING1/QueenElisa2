@@ -26,7 +26,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   BOT_NAME: 'SASIYA BOT',
   OWNER_NAME: 'MR SASIYA',
   OWNER_NUMBER: '94710701946',
-  SUDO: '94715166712',
+  SUDO: '9471070146',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
@@ -37,7 +37,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   MAXIMUM_FILESIZE: 90,
   OWNER_R_EMOJI: '👽',
   ALIVE_AS_GIF: true,
-  AUTO_VOICE: false,
+  AUTO_VOICE: true,
   INBOX_BLOCK: false,
   OWNER_REACT: true,
   AUTO_REACT: true,
@@ -58,8 +58,8 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   BUTTON_MESSAGES: true,
   SONG_DOWNLOAD_TYPE: 'audio', // audio , document
   VIDEO_DOWNLOAD_TYPE: 'video', // video
-  FB_DOWNLOAD_TYPE: 'selectable', // hdvideo , sdvideo
-  TIKTOK_DOWNLOAD_TYPE: 'selectable', // nowmvideo , wmvideo
+  FB_DOWNLOAD_TYPE: 'sdvideo', // hdvideo , sdvideo
+  TIKTOK_DOWNLOAD_TYPE: 'nowmvideo', // nowmvideo , wmvideo
   MSG: {
     ONLY_GROUP_MSG: 'Bot only Can Use Groups!',
     ONLY_PM_MSG: 'Bot only Can Use Private Chats!',
